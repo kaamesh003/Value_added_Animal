@@ -1,0 +1,38 @@
+body{
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color:darkgray;
+}
+
+.df{
+    text-align: center;
+    word-spacing: 400px;
+    color:chartreuse;
+    background-color: rgb(107,168,126);
+    background-size: 100px 100px;
+    background-position: 60px 60px;
+}
+h3{
+    word-spacing: 200px;
+    background-color: darkolivegreen;
+    color: beige;
+}
+h1{
+    font-family:Arial, Helvetica, sans-serif;
+    background-color:black;
+    color: blanchedalmond;
+}
+ol{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+u1{
+    font-family: fantasy;
+}
+table{
+    font-family: serif;
+}
+td{
+    padding-inline: 20px;
+    word-spacing: 5px;
+    line-height: 30px;
+}
